@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dictionary_English</string>
+    <string name="can_t_get_result" />
+    <string name="search_a_word" />
+    <string name="definition">Definition:</string>
+    <string name="example">Example:   </string>
+</resources>
